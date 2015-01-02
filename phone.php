@@ -7,6 +7,8 @@ error_reporting(0);
 不承担由本插件带来的任何责任。
 版本：3.8
 开发：萌娘TV
+网址：www.mengniangtv.com
+QQ：766195605	
 ******/
 
 
